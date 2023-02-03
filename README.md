@@ -1,1 +1,2 @@
 My first readme
+GIT HAS GOTTEN EASIER BY GOD'S GRACE.
